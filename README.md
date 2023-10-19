@@ -5,9 +5,9 @@
 
 Data preprocessing is a critical step in the data analysis process. It involves cleaning and transforming raw data into a format that can be easily analyzed and modeled. This includes handling missing values, dealing with outliers, normalizing and scaling data, encoding categorical variables, and other tasks that improve data quality and enhance the accuracy of analytical models.
 
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F5658374%2F1a3f2cdc9c22052e1a0b08292ad9933d%2F0_C_ibLD-RscbJzjMq.webp?generation=1697719793764093&alt=media)
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F5658374%2Fe98a9095d531b2ae51a9ea2b62e78743%2FScreenshot_3.jpg?generation=1697721077257613&alt=media)
 
-**Image Credit: [Afroz Chakure](https://afrozchakure.medium.com/)**
+**Image Credit: [Shehmir Javaid](https://research.aimultiple.com/author/shehmir-javaid/)**
 
 1. **Handling Missing Values**
 
@@ -168,4 +168,7 @@ Data preprocessing is a critical step in the data analysis process. It involves 
     data.set_index('time', inplace=True)
     data = data.asfreq('D')
     ```
+
+### Please feel free to correct me if there is any misinformation or suggest any information that needs to be added here.
+
 ## **Credit: <a href="https://github.com/BytesOfIntelligences">Bytes of Intelligence</a>**
